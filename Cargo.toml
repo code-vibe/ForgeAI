@@ -1,0 +1,10 @@
+[workspace]
+members = [
+    "common",
+    "gateway",
+    "cache",
+    "batcher",
+    "backend",
+    "telemetry"
+]
+
